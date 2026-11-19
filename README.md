@@ -30,6 +30,8 @@ The screen below shows a sample text-to-image generator, with the prompt entered
 <img width="520" height="384" alt="image" src="https://github.com/user-attachments/assets/78871ae6-6967-46e3-bf4e-ce8c2fc79581" />
 ## OUTPUT
 A set of AI-generated images produced from a written prompt, refined across two to three prompt iterations, with the final chosen image saved for use in the report.
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/0df5c720-a366-484d-b5aa-62c8e2ee7662" />
+
 ## RESULT
 Thus, text-to-image generative AI was successfully explored by writing, testing, and refining prompts, and a final AI-generated image was produced and saved.
 ## CONCLUSION
